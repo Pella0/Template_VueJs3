@@ -1,4 +1,4 @@
-# hello-world
+# Template VUE3 
 
 ## Project setup
 ```
